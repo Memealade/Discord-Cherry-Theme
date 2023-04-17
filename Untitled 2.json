@@ -43,73 +43,73 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#000000",
+      "#e14192",
       "#FFFFFF"
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#FFFFFF",
-    "PRIMARY_DARK_100": "#FFFFFF",
-    "PRIMARY_DARK_300": "#FFFFFF",
-    "PRIMARY_DARK_360": "#FFFFFF",
-    "PRIMARY_DARK_400": "#FFFFFF",
-    "PRIMARY_DARK_500": "#FFFFFF",
-    "PRIMARY_DARK_600": "#FFFFFF",
-    "PRIMARY_DARK_630": "#FFFFFF",
-    "PRIMARY_DARK_700": "#FFFFFF",
-    "PRIMARY_DARK_800": "#FFFFFF",
+    "PRIMARY_DARK": "#e14192",
+    "PRIMARY_DARK_100": "#e14192",
+    "PRIMARY_DARK_300": "#e14192",
+    "PRIMARY_DARK_360": "#e14192",
+    "PRIMARY_DARK_400": "#e14192",
+    "PRIMARY_DARK_500": "#e14192",
+    "PRIMARY_DARK_600": "#e14192",
+    "PRIMARY_DARK_630": "#e14192",
+    "PRIMARY_DARK_700": "#e14192",
+    "PRIMARY_DARK_800": "#e14192",
     "BRAND_NEW": "#FFFFFF",
     "WHITE": "#FFFFFF"
   },
